@@ -41,3 +41,12 @@ The point of commits is to track changes which is helpful in case you are coding
 
 Homework: just practice 
 	
+Day 2
+
+We are learning to push and pull commits from the server (git hub)
+
+We started by making a commit - a series of changes and moving those changes from the unstaged section to the staged section
+
+We first looked at changes by typing:
+
+git status
